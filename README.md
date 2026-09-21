@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/trainingsites/campus-ai-os/stargazers"><img src="https://img.shields.io/github/stars/trainingsites/campus-ai-os?style=flat-square&color=0B4F6C" alt="GitHub stars"/></a>
   <a href="https://github.com/trainingsites/campus-ai-os/releases/latest"><img src="https://img.shields.io/github/v/release/trainingsites/campus-ai-os?style=flat-square&color=0B4F6C" alt="Release"/></a>
   <a href="https://github.com/trainingsites/campus-ai-os/actions/workflows/ci.yml"><img src="https://github.com/trainingsites/campus-ai-os/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-20BF55?style=flat-square" alt="License: MIT"/></a>
@@ -19,11 +20,23 @@
 
 **An AI staff that remembers your business. One folder. One chief of staff. A team you can use from Claude or Codex.**
 
+<p align="center">
+  <a href="https://github.com/trainingsites/campus-ai-os/releases/latest/download/campus-ai-os-v5.2.9.plugin"><strong>⬇️ Download the plugin (one file, free)</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://trainingsites.io/os"><strong>🎓 Get the free guided setup at TrainingSites.io</strong></a>
+</p>
+
+<p align="center">
+  <sub>In Claude Desktop or Cowork: <strong>Settings → Plugins → Install from file</strong>, connect an empty folder, then say <code>/campus-start</code>. No terminal, no account, no API keys. You do not need to clone this repo.</sub>
+</p>
+
 Campus AI OS turns a folder into the operating system for your business. It gives you Dean, your AI chief of staff; shared memory that compounds; four departments; a starter team of AI employees; and playbooks that carry multi-step work from request to finished result.
 
 It is free, open source, and MIT-licensed. Your business remains in files you own: mostly Markdown and JSON, with no server or database required.
 
-> Not a developer? [Download Campus AI OS free at TrainingSites.io](https://trainingsites.io/os). It is the same release, with the simplest installation path.
+> Not a developer? [Get Campus AI OS free at TrainingSites.io](https://trainingsites.io/os). It is the same release through a free checkout, and every new version is included, so you are not left checking GitHub for updates.
+
+> Found this through the YouTube channel? A star helps other course creators and coaches find it.
 
 ## Who this is for
 
