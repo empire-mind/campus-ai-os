@@ -21,7 +21,7 @@
 **An AI staff that remembers your business. One folder. One chief of staff. A team you can use from Claude or Codex.**
 
 <p align="center">
-  <a href="https://github.com/trainingsites/campus-ai-os/releases/latest/download/campus-ai-os-v5.2.9.plugin"><strong>⬇️ Download the plugin (one file, free)</strong></a>
+  <a href="https://github.com/trainingsites/campus-ai-os/releases/download/v5.2.9/campus-ai-os-v5.2.9.plugin"><strong>⬇️ Download the plugin (one file, free)</strong></a>
   &nbsp;·&nbsp;
   <a href="https://trainingsites.io/os"><strong>🎓 Get the free guided setup at TrainingSites.io</strong></a>
 </p>
